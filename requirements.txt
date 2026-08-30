@@ -1,0 +1,6 @@
+setuptools
+supabase
+bcrypt
+segno
+pillow
+streamlit
