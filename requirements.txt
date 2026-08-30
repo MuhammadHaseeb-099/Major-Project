@@ -4,3 +4,4 @@ bcrypt
 segno
 pillow
 streamlit
+dlib-bin
